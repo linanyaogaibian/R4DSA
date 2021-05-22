@@ -1,0 +1,25 @@
+---
+title: "Welcome to R for Data Science and Analytics"
+description: |
+  Welcome to my new blog. This blog will record all of my learning experience. I hope I can have a good start and have every stable and good step for my learning journey. I am also eager to communicate and share with others.
+author:
+  - name: LI NAN, Master of Singapore Management University
+    url: https://www.smu.edu.sg/
+    affiliation: School of Computing and Information Systems, Singapore Management University
+    affiliation_url: https://scis.smu.edu.sg/
+date: 05-21-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+

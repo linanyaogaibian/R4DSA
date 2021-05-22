@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to R for Data Science and Analytics",
+    "description": "Welcome to my new blog. This blog will record all of my learning experience. I hope I can have a good start and have every stable and good step for my learning journey. I am also eager to communicate and share with others.",
+    "author": [
+      {
+        "name": "LI NAN, Master of Singapore Management University",
+        "url": "https://www.smu.edu.sg/"
+      }
+    ],
+    "date": "2021-05-21",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-05-21T23:04:47+08:00",
+    "input_file": "welcome.utf8.md"
+  }
+]
